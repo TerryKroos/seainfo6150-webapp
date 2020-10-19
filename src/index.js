@@ -16,7 +16,7 @@ ReactDOM.render(
       <Route path="/demo">
         <Demo />
       </Route>
-      <Route>
+      <Route path="/articlelist" exact>
         <App />
       </Route>
     </Switch>
