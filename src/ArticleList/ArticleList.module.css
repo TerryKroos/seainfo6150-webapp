@@ -1,0 +1,7 @@
+.container {
+    height:100%;
+    width:100%;
+    border: 2px dotted #686868;
+    background-color: #808080 ;
+    border-radius: 15px;
+}
