@@ -7,20 +7,26 @@
     padding: 10px;
 }
 
-.container + .container {
-    margin-top: 30px;
-}
-
 .title {
     color: #c00;
-    margin: 0 0 20px;
+    margin: 0 0 20px; 
+}
+.article {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.wrapper {
+    flex-basis: 150px;
 }
 
 .text {
     font-size: 12px;
     margin: 0 0 20px;
 }
-
 .time {
     font-weight: bold;
 }
+

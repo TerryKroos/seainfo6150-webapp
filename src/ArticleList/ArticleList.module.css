@@ -1,4 +1,7 @@
 .container {
+    display:  grid;
+    gap: 2em;
+    grid-template-columns: repeat(3, 1fr);
     background: #999;
     border: 1px dashed #666;
     border-radius: 10px;

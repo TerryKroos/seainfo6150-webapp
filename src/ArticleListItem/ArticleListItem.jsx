@@ -24,7 +24,7 @@ const ArticleListItem = (props) => {
             </div>
           )}
         </div>
-        <ArticleTextToggleButton
+        <ArticleTextToggleButton  
           buttonText={isTextShowing ? "Show less" : "Show more"}
           onClick={onClick}
         />
