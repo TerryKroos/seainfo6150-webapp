@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FunctionalComponent tests renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <img
+      alt=""
+      src=""
+    />
+  </div>
+</div>
+`;
